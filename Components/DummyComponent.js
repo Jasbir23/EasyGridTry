@@ -27,6 +27,9 @@ export default class DummyComponent extends Component {
         <Text style={styles.welcome}>
           Welcome to React Native!
         </Text>
+        <Text>
+          kdfjakahdkjhajldh
+        </Text>
       </View>
     );
   }
